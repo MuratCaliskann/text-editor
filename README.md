@@ -3,6 +3,7 @@ Kişisel amaçla oluşturulmuş amatör bir textarea edit yapısı.
 kullanım şekli:
 
 HTML alanı:
+
     <div class="editor-container">
         <div class="toolbar">
             <button onclick="editor.applyStyle('bold')" title="Kalın"><b>B</b></button>
